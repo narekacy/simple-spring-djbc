@@ -1,4 +1,4 @@
-package org.employee.dao;
+package org.employee.dao.rowMapper;
 
 import org.employee.dto.Employee;
 import org.springframework.jdbc.core.RowMapper;

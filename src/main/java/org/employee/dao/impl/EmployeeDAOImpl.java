@@ -1,7 +1,7 @@
 package org.employee.dao.impl;
 
 import org.employee.dao.EmployeeDAO;
-import org.employee.dao.EmployeeRowMapper;
+import org.employee.dao.rowMapper.EmployeeRowMapper;
 import org.employee.dto.Employee;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
